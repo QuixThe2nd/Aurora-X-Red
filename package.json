@@ -1,10 +1,10 @@
 {
-    "name": "aurora-x",
-    "displayName": "Aurora X",
+    "name": "aurora-x-red",
+    "displayName": "Aurora X Red",
     "description": "Minimalistic looking based on Material Theme",
     "icon": "images/icon.png",
     "version": "2.0.1",
-    "publisher": "marqu3s",
+    "publisher": "QuixThe2nd",
     "engines": {
         "vscode": "^1.37.0"
     },
@@ -14,14 +14,15 @@
     "contributes": {
         "themes": [
             {
-                "label": "Aurora X",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Aurora X-color-theme.json"
+                "label": "Aurora X Red",
+                "uiTheme": "vs-dark-red",
+                "path": "./themes/Aurora X Red-color-theme.json"
             }
         ]
     },
     "keywords": [
         "aurora",
+        "red",
         "dark",
         "material",
         "theme",
@@ -29,10 +30,10 @@
     ],
     "license": "MIT",
     "maintainers": [
-        "Alvaro Marques <marquesramosalvaro@icloud.com>"
+        "Parsa Yazdani <parsa@yazdani.au>"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/marqu3s10/Aurora-X.git"
+        "url": "https://github.com/QuixThe2nd/Aurora-X-Red.git"
     }
 }
